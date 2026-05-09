@@ -156,7 +156,7 @@ This project is licensed under the **MIT License**.
 
 ## 💡 Author
 
-**Kashish Gupta**
+**Avnoor Kamboj**
 
 ---
 
